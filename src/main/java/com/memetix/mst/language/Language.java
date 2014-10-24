@@ -72,8 +72,11 @@ public enum Language {
     TURKISH("tr"),
     UKRAINIAN("uk"),
     URDU("ur"),
-    VIETNAMESE("vi");
-	
+    VIETNAMESE("vi"),
+//  add by mahongming
+   WELSH("cy"),
+   KLINGON("tlh"), 
+   MALTA("mt");
     /**
      * Microsoft's String representation of this language.
      */
